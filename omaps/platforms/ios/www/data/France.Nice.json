@@ -1,0 +1,352 @@
+[
+    {
+        "is_claimed": true,
+        "rating": 5,
+        "mobile_url": "http://m.yelp.fr/biz/xocoalt-nice",
+        "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+        "review_count": 33,
+        "name": "Xocoalt",
+        "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+        "url": "http://www.yelp.fr/biz/xocoalt-nice",
+        "phone": "+33493912954",
+        "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/3tPjRrnNbUjlkImOhT-wGg/ms.jpg",
+        "categories": [
+            [
+                "Chocolatiers & Shops",
+                "chocolate"
+            ]
+        ],
+        "display_phone": "+33 4 93 91 29 54",
+        "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+        "id": "xocoalt-nice",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "10 rue Alberti",
+                "06000 Nice",
+                "France"
+            ],
+            "postal_code": "06000",
+            "country_code": "FR",
+            "address": [
+                "10 rue Alberti"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 5,
+        "mobile_url": "http://m.yelp.fr/biz/herv%C3%A9-martinez-nice",
+        "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+        "review_count": 14,
+        "name": "Hervé Martinez",
+        "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+        "url": "http://www.yelp.fr/biz/herv%C3%A9-martinez-nice",
+        "phone": "+33493553275",
+        "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/_nYHjoIpvs5WWmo-j2fTPw/ms.jpg",
+        "categories": [
+            [
+                "Bakeries",
+                "bakeries"
+            ]
+        ],
+        "display_phone": "+33 4 93 55 32 75",
+        "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+        "id": "hervé-martinez-nice",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "24 rue Cassini",
+                "06300 Nice",
+                "France"
+            ],
+            "postal_code": "06300",
+            "country_code": "FR",
+            "address": [
+                "24 rue Cassini"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 5,
+        "mobile_url": "http://m.yelp.fr/biz/boucher-philippe-leto-nice",
+        "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+        "review_count": 12,
+        "name": "boucher Philippe Leto",
+        "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+        "url": "http://www.yelp.fr/biz/boucher-philippe-leto-nice",
+        "phone": "+33493811277",
+        "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/5-Su59jOpt6-DgEja2KbdQ/ms.jpg",
+        "categories": [
+            [
+                "Butcher",
+                "butcher"
+            ],
+            [
+                "Delis",
+                "delis"
+            ]
+        ],
+        "display_phone": "+33 4 93 81 12 77",
+        "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+        "id": "boucher-philippe-leto-nice",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "64 Avenue Cap de Croix",
+                "Rimiez - Clinique Saint Georges",
+                "06000 Nice",
+                "France"
+            ],
+            "postal_code": "06000",
+            "country_code": "FR",
+            "address": [
+                "64 Avenue Cap de Croix",
+                "Rimiez - Clinique Saint Georges"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 4.5,
+        "mobile_url": "http://m.yelp.fr/biz/fenocchio-glacier-nice",
+        "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+        "review_count": 111,
+        "name": "Fenocchio Glacier",
+        "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/dtQINrLpJBZxayHSzhh1ew/ms.jpg",
+        "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+        "url": "http://www.yelp.fr/biz/fenocchio-glacier-nice",
+        "phone": "+33493807252",
+        "snippet_text": "Chain gelateria. I was skeptical. But it lives up to the hype. Some of the best gelato I've ever had, including my two week stint in Italy.\n\nFirst go I had...",
+        "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/MkfSB-9d4CtUvakAR1UkaQ/ms.jpg",
+        "categories": [
+            [
+                "Ice Cream & Frozen Yogurt",
+                "icecream"
+            ]
+        ],
+        "display_phone": "+33 4 93 80 72 52",
+        "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+        "id": "fenocchio-glacier-nice",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "2 place Rossétti",
+                "06300 Nice",
+                "France"
+            ],
+            "postal_code": "06300",
+            "country_code": "FR",
+            "address": [
+                "2 place Rossétti"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 5,
+        "mobile_url": "http://m.yelp.fr/biz/arlequin-gelati-italiani-nice-2",
+        "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+        "review_count": 11,
+        "name": "Arlequin Gelati Italiani",
+        "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/2hf-pzWMFfMvNPOH78gD9g/ms.jpg",
+        "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+        "url": "http://www.yelp.fr/biz/arlequin-gelati-italiani-nice-2",
+        "phone": "+33493046988",
+        "snippet_text": "In this city, there are essentially 3 ratings: great, excellent and outstanding. This place is the best of the best. Note: closed Mondays.",
+        "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/ai1xyvR2eMEnTLDIUHiuDQ/ms.jpg",
+        "categories": [
+            [
+                "Ice Cream & Frozen Yogurt",
+                "icecream"
+            ]
+        ],
+        "display_phone": "+33 4 93 04 69 88",
+        "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+        "id": "arlequin-gelati-italiani-nice-2",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "9 Avenue Malausséna",
+                "06000 Nice",
+                "France"
+            ],
+            "postal_code": "06000",
+            "country_code": "FR",
+            "address": [
+                "9 Avenue Malausséna"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 4.5,
+        "mobile_url": "http://m.yelp.fr/biz/aphrodite-david-faure-nice",
+        "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+        "review_count": 21,
+        "name": "Aphrodite-David Faure",
+        "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+        "url": "http://www.yelp.fr/biz/aphrodite-david-faure-nice",
+        "phone": "+33493856353",
+        "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/rqv0bWdnRIFqCUNju3TwMA/ms.jpg",
+        "categories": [
+            [
+                "Specialty Food",
+                "gourmet"
+            ],
+            [
+                "Restaurants",
+                "restaurants"
+            ]
+        ],
+        "display_phone": "+33 4 93 85 63 53",
+        "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+        "id": "aphrodite-david-faure-nice",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "10 Boulevard Dubouchage",
+                "06000 Nice",
+                "France"
+            ],
+            "postal_code": "06000",
+            "country_code": "FR",
+            "address": [
+                "10 Boulevard Dubouchage"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 4.5,
+        "mobile_url": "http://m.yelp.fr/biz/asiana-super-march%C3%A9-nice-2",
+        "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+        "review_count": 12,
+        "name": "Asiana Super Marché",
+        "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+        "url": "http://www.yelp.fr/biz/asiana-super-march%C3%A9-nice-2",
+        "phone": "+33493264207",
+        "categories": [
+            [
+                "Grocery",
+                "grocery"
+            ],
+            [
+                "Department Stores",
+                "deptstores"
+            ]
+        ],
+        "display_phone": "+33 4 93 26 42 07",
+        "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+        "id": "asiana-super-marché-nice-2",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "56 Boulevard Risso",
+                "06300 Nice",
+                "France"
+            ],
+            "postal_code": "06300",
+            "country_code": "FR",
+            "address": [
+                "56 Boulevard Risso"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 4,
+        "mobile_url": "http://m.yelp.fr/biz/patisserie-lac-nice",
+        "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+        "review_count": 22,
+        "name": "Patisserie Lac",
+        "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/k74m9qsqjpSrRXwoq5PsIw/ms.jpg",
+        "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+        "url": "http://www.yelp.fr/biz/patisserie-lac-nice",
+        "phone": "+33493553774",
+        "snippet_text": "Ooo la Lac! What beautiful and tasty desserts you have! I love sweets and I think I'll find any excuse I can to travel to France just so I can stuff my face...",
+        "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/gjx2Rk_eXYqu56GcUiu4kQ/ms.jpg",
+        "categories": [
+            [
+                "Bakeries",
+                "bakeries"
+            ],
+            [
+                "Chocolatiers & Shops",
+                "chocolate"
+            ]
+        ],
+        "display_phone": "+33 4 93 55 37 74",
+        "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+        "id": "patisserie-lac-nice",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "18 Rue Barla",
+                "06000 Nice",
+                "France"
+            ],
+            "postal_code": "06000",
+            "country_code": "FR",
+            "address": [
+                "18 Rue Barla"
+            ],
+            "state_code": "06"
+        }
+    },
+    {
+        "is_claimed": false,
+        "rating": 4.5,
+        "mobile_url": "http://m.yelp.fr/biz/caf%C3%A9-brasserie-l-univers-nice-2",
+        "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+        "review_count": 10,
+        "name": "Café Brasserie l'Univers",
+        "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+        "url": "http://www.yelp.fr/biz/caf%C3%A9-brasserie-l-univers-nice-2",
+        "phone": "+33493623222",
+        "categories": [
+            [
+                "Specialty Food",
+                "gourmet"
+            ],
+            [
+                "Restaurants",
+                "restaurants"
+            ]
+        ],
+        "display_phone": "+33 4 93 62 32 22",
+        "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+        "id": "café-brasserie-l-univers-nice-2",
+        "is_closed": false,
+        "location": {
+            "city": "Nice",
+            "display_address": [
+                "54 Boulevard Jean Jaurès",
+                "06000 Nice",
+                "France"
+            ],
+            "postal_code": "06000",
+            "country_code": "FR",
+            "address": [
+                "54 Boulevard Jean Jaurès"
+            ],
+            "state_code": "06"
+        }
+    }
+]
